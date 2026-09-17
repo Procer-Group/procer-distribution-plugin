@@ -1,0 +1,15 @@
+{
+  "name": "procer-distribution",
+  "version": "0.1.0+18ac66259832",
+  "description": "Drives the ProcerERP MCP server — project data, tenant-scoped, under the caller's own permissions.",
+  "author": {
+    "name": "ProcerERP"
+  },
+  "skills": "./skills-codex/",
+  "interface": {
+    "displayName": "ProcerERP",
+    "shortDescription": "Project data from the ProcerERP MCP server.",
+    "category": "Productivity",
+    "defaultPrompt": "Use the procer-distribution skill to work with ProcerERP project data."
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "provider": "cursor",
+  "displayName": "Cursor",
+  "skillPaths": [
+    ".cursor/skills/procer-distribution",
+    ".cursor/skills/procer-distribution-update"
+  ],
+  "mcp": {
+    "sourcePath": ".cursor/mcp.json",
+    "targetPath": ".cursor/mcp.json",
+    "scope": "project",
+    "pinning": "dynamic-registration"
+  }
+}

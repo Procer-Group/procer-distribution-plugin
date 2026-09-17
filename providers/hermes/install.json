@@ -1,0 +1,14 @@
+{
+  "provider": "hermes",
+  "displayName": "Hermes",
+  "skillPaths": [
+    ".hermes/skills/procer-distribution",
+    ".hermes/skills/procer-distribution-update"
+  ],
+  "mcp": {
+    "sourcePath": "merge-into-config.yaml",
+    "targetPath": ".hermes/config.yaml",
+    "scope": "user",
+    "pinning": "dynamic-registration"
+  }
+}

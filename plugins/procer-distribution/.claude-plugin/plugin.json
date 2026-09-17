@@ -1,0 +1,14 @@
+{
+  "name": "procer-distribution",
+  "version": "0.1.0+18ac66259832",
+  "description": "Drives the ProcerERP MCP server — project data, tenant-scoped, under the caller's own permissions.",
+  "author": {
+    "name": "ProcerERP"
+  },
+  "repository": "https://github.com/Procer-Group/procer-distribution-plugin",
+  "keywords": [
+    "procer-distribution",
+    "mcp",
+    "project-management"
+  ]
+}

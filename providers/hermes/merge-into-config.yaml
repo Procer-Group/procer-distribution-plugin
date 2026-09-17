@@ -1,0 +1,4 @@
+mcp_servers:
+  procer-distribution:
+    url: https://distribution-mcp.procergroup.com/mcp
+    transport: streamable-http

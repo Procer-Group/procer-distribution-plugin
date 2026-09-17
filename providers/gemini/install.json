@@ -1,0 +1,14 @@
+{
+  "provider": "gemini",
+  "displayName": "Gemini CLI",
+  "skillPaths": [
+    ".gemini/skills/procer-distribution",
+    ".gemini/skills/procer-distribution-update"
+  ],
+  "mcp": {
+    "sourcePath": ".gemini/settings.json",
+    "targetPath": ".gemini/settings.json",
+    "scope": "project",
+    "pinning": "dynamic-registration"
+  }
+}

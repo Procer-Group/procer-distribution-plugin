@@ -1,0 +1,9 @@
+{
+  "mcp": {
+    "procer-distribution": {
+      "type": "remote",
+      "url": "https://distribution-mcp.procergroup.com/mcp",
+      "enabled": true
+    }
+  }
+}

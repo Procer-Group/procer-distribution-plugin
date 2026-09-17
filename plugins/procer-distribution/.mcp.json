@@ -1,0 +1,12 @@
+{
+  "mcpServers": {
+    "procer-distribution": {
+      "type": "http",
+      "url": "https://distribution-mcp.procergroup.com/mcp",
+      "oauth": {
+        "clientId": "procer-public-client",
+        "callbackPort": 8125
+      }
+    }
+  }
+}

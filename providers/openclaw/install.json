@@ -1,0 +1,14 @@
+{
+  "provider": "openclaw",
+  "displayName": "OpenClaw",
+  "skillPaths": [
+    ".agents/skills/procer-distribution",
+    ".agents/skills/procer-distribution-update"
+  ],
+  "mcp": {
+    "sourcePath": "merge-into-openclaw.json",
+    "targetPath": ".openclaw/openclaw.json",
+    "scope": "user",
+    "pinning": "dynamic-registration"
+  }
+}
