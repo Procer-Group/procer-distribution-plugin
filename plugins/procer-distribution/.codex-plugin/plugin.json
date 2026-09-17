@@ -1,6 +1,6 @@
 {
   "name": "procer-distribution",
-  "version": "0.1.0+97b03dc2145b",
+  "version": "0.1.0+65271325cd4a",
   "description": "Drives the ProcerERP MCP server — the product's own data, under the caller's own permissions.",
   "author": {
     "name": "ProcerERP"
