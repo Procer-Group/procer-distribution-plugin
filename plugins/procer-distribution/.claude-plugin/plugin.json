@@ -1,7 +1,7 @@
 {
   "name": "procer-distribution",
-  "version": "0.1.0+18ac66259832",
-  "description": "Drives the ProcerERP MCP server — project data, tenant-scoped, under the caller's own permissions.",
+  "version": "0.1.0+97b03dc2145b",
+  "description": "Drives the ProcerERP MCP server — the product's own data, under the caller's own permissions.",
   "author": {
     "name": "ProcerERP"
   },

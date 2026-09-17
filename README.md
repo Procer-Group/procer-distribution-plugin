@@ -1,7 +1,7 @@
 # ProcerERP agent plugin
 
-Connects your coding agent to the ProcerERP MCP server at `https://distribution-mcp.procergroup.com` — project
-data, tenant-scoped, under your own permissions rather than a service account's.
+Connects your coding agent to the ProcerERP MCP server at `https://distribution-mcp.procergroup.com` — the
+product's own data, under your own permissions rather than a service account's.
 
 **This repository is generated.** Every file in it is build output from the ProcerERP monorepo. Edits
 here are overwritten by the next publish; open a change against the source instead.
@@ -44,4 +44,4 @@ Access is granted on ProcerERP's own roles screen, per tenant: `mcp:read` and `m
 Reads working while writes answer 403 means the write permission has not been granted, or the
 token predates the grant.
 
-Version 0.1.0+18ac66259832.
+Version 0.1.0+97b03dc2145b.

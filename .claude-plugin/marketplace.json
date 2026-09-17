@@ -7,7 +7,7 @@
   "plugins": [
     {
       "name": "procer-distribution",
-      "description": "Drives the ProcerERP MCP server — project data, tenant-scoped, under the caller's own permissions.",
+      "description": "Drives the ProcerERP MCP server — the product's own data, under the caller's own permissions.",
       "source": "./plugins/procer-distribution",
       "category": "productivity"
     }
