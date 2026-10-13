@@ -1,6 +1,6 @@
 {
   "name": "procer-distribution",
-  "version": "0.1.0+e23ed72573ff",
+  "version": "0.1.0+f238cb7b98b3",
   "description": "Installs the ProcerERP skill and MCP server into a project, for harnesses with no plugin system.",
   "type": "module",
   "engines": {
