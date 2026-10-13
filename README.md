@@ -44,4 +44,4 @@ Access is granted on ProcerERP's own roles screen, per tenant: `mcp:read` and `m
 Reads working while writes answer 403 means the write permission has not been granted, or the
 token predates the grant.
 
-Version 0.1.0+f238cb7b98b3.
+Version 0.1.0+80df35f9e44b.
